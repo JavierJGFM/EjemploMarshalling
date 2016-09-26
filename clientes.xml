@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productos>
+    <producto id="0">
+        <nombre>nombre</nombre>
+        <categoria>categoria</categoria>
+        <descripcion>descripcion</descripcion>
+        <imagen>imagen</imagen>
+        <precio>0.0</precio>
+        <unidadesMedidas>unidadesMedidas</unidadesMedidas>
+        <unidadesPrecio>0.0</unidadesPrecio>
+    </producto>
+    <producto id="0">
+        <nombre>nombre2</nombre>
+        <categoria>categoria2</categoria>
+        <descripcion>descripcion2</descripcion>
+        <imagen>imagen2</imagen>
+        <precio>0.0</precio>
+        <unidadesMedidas>unidadesMedidas2</unidadesMedidas>
+        <unidadesPrecio>0.0</unidadesPrecio>
+    </producto>
+</productos>
